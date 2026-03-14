@@ -20,10 +20,6 @@ Me tornar um grande desenvolvedor e construir projetos relevantes
 - Criar um portfólio sólido
 - Conseguir meu primeiro estágio como desenvolvedor
 
-[1] Wiki de CSS feita com React
-[2] Projetos de prática em desenvolvimento web
-[3] Exercícios de programação
-
 Inicializando desenvolvedor...
 ████████░░░░░░░░ 45%
 
@@ -32,4 +28,3 @@ Inicializando desenvolvedor...
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Diogo-Rafael-AS&show_icons=true&theme=tokyonight)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Rafael-AS&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Diogo-Rafael-AS&theme=tokyonight)
-![Troféus](https://github-profile-trophy.vercel.app/?username=Diogo-Rafael-AS&theme=tokyonight)
